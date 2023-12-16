@@ -6,7 +6,7 @@ namespace Runner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MultiplesOf3And5.GetMultiplesOf3And5BelowN(1000));
+            Console.WriteLine(EvenFibonacci.FindSumOfEvenFibsUnderN(4000000));
         }
     }
 }
